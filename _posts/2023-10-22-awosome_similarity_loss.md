@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Simlimarity as loss functions
+title:  awosome_similarity_loss
 category: ºº ı 
 stickie: False
 ---
